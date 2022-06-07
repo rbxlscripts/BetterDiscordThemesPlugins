@@ -1,27 +1,27 @@
-:root .wrapper-1VLyxH foreignObject,
-:root .callAvatarMask-fiNMWy foreignObject,
-:root .avatarContainer-gPrCzX foreignObject,
-:root .avatarMasked-qX7NI7 {
+.wrapper-1VLyxH foreignObject,
+.callAvatarMask-fiNMWy foreignObject,
+.avatarContainer-gPrCzX foreignObject,
+.avatarMasked-qX7NI7 {
   mask: none;
   -webkit-mask: none;
 }
-:root .wrapper-1VLyxH,
-:root .avatar-b5OQ1N,
-:root .profile-1o7I_1 .avatarUploaderInner-yEhTv5,
-:root .voiceAvatar-lRbblo,
-:root .avatar-2e8lTP,
-:root .border-2BJQjd,
-:root .avatar-3FKimL,
-:root .clickableAvatar-igrb2Y,
-:root .emptyUser-2FDCJv,
-:root .avatar-3TrM7c,
-:root .wrapper-3mYmFS.ringingIncoming-fibTw-::after,
-:root .wrapper-3mYmFS.ringingOutgoing-1NjfRn::after,
-:root .replyAvatar-sHd2sU,
-:root .avatarSpeaking-33RRJU,
-:root .avatar-2EVtgZ,
-:root .avatarContainerMasked-13fYnN,
-:root .appAvatar-2_lufo {
+.wrapper-1VLyxH,
+.avatar-b5OQ1N,
+.profile-1o7I_1 .avatarUploaderInner-yEhTv5,
+.voiceAvatar-lRbblo,
+.avatar-2e8lTP,
+.border-2BJQjd,
+.avatar-3FKimL,
+.clickableAvatar-igrb2Y,
+.emptyUser-2FDCJv,
+.avatar-3TrM7c,
+.wrapper-3mYmFS.ringingIncoming-fibTw-::after,
+.wrapper-3mYmFS.ringingOutgoing-1NjfRn::after,
+.replyAvatar-sHd2sU,
+.avatarSpeaking-33RRJU,
+.avatar-2EVtgZ,
+.avatarContainerMasked-13fYnN,
+.appAvatar-2_lufo {
   border-radius: var(--avatar-radius, 0px);
 }
 .avatarHint-k7pYop,
