@@ -2,8 +2,10 @@
 Import Link: (dont use raw link)
 @import url("https://gitcdn.link/cdn/rbxlscripts/BetterDiscordThemesPlugins/main/Themes/AvatarRadiusChanges.css");
 :root {
---avatar-radius: 50% /* 0% or 0px for square avatar */
+--avatar-radius: 50% 
 }
+Square Avatars: 0% or 0px
+Default: 50% (i think)
 */
 
 .wrapper-1VLyxH foreignObject,
