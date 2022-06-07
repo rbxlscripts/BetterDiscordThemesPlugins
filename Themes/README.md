@@ -1,7 +1,8 @@
 # Themes
 
+## Info
 ```diff
-- (Previews is not the same as in BetterDiscord)
+- Previews are not the same as in BetterDiscord)
 ```
 
 [preview-badge]: https://img.shields.io/badge/Click%20here-to%20preview-green
