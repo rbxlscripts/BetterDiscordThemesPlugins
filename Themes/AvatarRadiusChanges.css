@@ -1,6 +1,9 @@
 /*
 Import Link: (dont use raw link)
 @import url("https://gitcdn.link/cdn/rbxlscripts/BetterDiscordThemesPlugins/main/Themes/AvatarRadiusChanges.css");
+:root {
+--avatar-radius: 50% /* 0% or 0px for square avatar */
+}
 */
 
 .wrapper-1VLyxH foreignObject,
@@ -27,13 +30,13 @@ Import Link: (dont use raw link)
 .avatar-2EVtgZ,
 .avatarContainerMasked-13fYnN,
 .appAvatar-2_lufo {
-  border-radius: var(--avatar-radius, 0px);
+  border-radius: var(--avatar-radius, 50%);
 }
 .avatarHint-k7pYop,
 .avatarHint-k7pYop foreignObject {
-    border-radius: var(--avatar-radius, 0px);
+    border-radius: var(--avatar-radius, 50%);
     mask: none;
 }
 .avatarHintInner-2HUAWj {
-    border-radius: var(--avatar-radius, 0px);
+    border-radius: var(--avatar-radius, 50%);
 }
