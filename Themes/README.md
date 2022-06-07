@@ -6,5 +6,4 @@
 [winxp-preview]: https://gibbu.github.io/ThemePreview/?file=https://gitcdn.link/cdn/rbxlscripts/BetterDiscordThemesPlugins/main/Themes/WindowsXP/WinXP.theme.css#
 ### Windows XP [Beta]
 [![Download][download-badge]][winxp-download]
-
 [![Preview][preview-badge]][winxp-preview]
