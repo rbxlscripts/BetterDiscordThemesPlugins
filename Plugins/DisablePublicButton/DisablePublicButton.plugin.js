@@ -4,8 +4,8 @@
  * @description Disable the public button on the sidebar.
  * @author mstudio45#5590
  * @authorId 586218413693730883
- * @source https://github.com/rbxlscripts/BetterDiscordThemesPlugins/tree/main/DisablePublicButton-main
- * @updateUrl https://raw.githubusercontent.com/rbxlscripts/BetterDiscordThemesPlugins/main/DisablePublicButton-main/DisablePublicButton.plugin.js
+ * @source https://github.com/rbxlscripts/BetterDiscordThemesPlugins/tree/main/Plugins/DisablePublicButton
+ * @updateUrl https://raw.githubusercontent.com/rbxlscripts/BetterDiscordThemesPlugins/main/Plugins/DisablePublicButton/DisablePublicButton.plugin.js
  */
 
 module.exports = class DisablePublicButton {
