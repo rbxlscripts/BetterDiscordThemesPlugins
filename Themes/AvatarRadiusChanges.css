@@ -1,16 +1,34 @@
-/* 0px to square */
-:root .avatarContainer-gPrCzX foreignObject,:root .avatarMasked-qX7NI7,:root .callAvatarMask-fiNMWy foreignObject,:root .wrapper-1VLyxH foreignObject{
-    mask: none;
-    -webkit-mask: none
+:root .wrapper-1VLyxH foreignObject,
+:root .callAvatarMask-fiNMWy foreignObject,
+:root .avatarContainer-gPrCzX foreignObject,
+:root .avatarMasked-qX7NI7 {
+  mask: none;
+  -webkit-mask: none;
 }
-:root .appAvatar-2_lufo,:root .avatar-2EVtgZ,:root .avatar-2e8lTP,:root .avatar-3FKimL,:root .avatar-3TrM7c,:root .avatar-b5OQ1N,:root .avatarContainerMasked-13fYnN,:root .avatarSpeaking-33RRJU,:root .border-2BJQjd,:root .clickableAvatar-igrb2Y,:root .emptyUser-2FDCJv,:root .profile-1o7I_1 .avatarUploaderInner-yEhTv5,:root .replyAvatar-sHd2sU,:root .voiceAvatar-lRbblo,:root .wrapper-1VLyxH,:root .wrapper-3mYmFS.ringingIncoming-fibTw-::after,:root .wrapper-3mYmFS.ringingOutgoing-1NjfRn::after {
+:root .wrapper-1VLyxH,
+:root .avatar-b5OQ1N,
+:root .profile-1o7I_1 .avatarUploaderInner-yEhTv5,
+:root .voiceAvatar-lRbblo,
+:root .avatar-2e8lTP,
+:root .border-2BJQjd,
+:root .avatar-3FKimL,
+:root .clickableAvatar-igrb2Y,
+:root .emptyUser-2FDCJv,
+:root .avatar-3TrM7c,
+:root .wrapper-3mYmFS.ringingIncoming-fibTw-::after,
+:root .wrapper-3mYmFS.ringingOutgoing-1NjfRn::after,
+:root .replyAvatar-sHd2sU,
+:root .avatarSpeaking-33RRJU,
+:root .avatar-2EVtgZ,
+:root .avatarContainerMasked-13fYnN,
+:root .appAvatar-2_lufo {
+  border-radius: var(--avatar-radius);
+}
+.avatarHint-k7pYop,
+.avatarHint-k7pYop foreignObject {
     border-radius: var(--avatar-radius);
-}
-.avatarHint-k7pYop,.avatarHint-k7pYop foreignObject
-{
-    border-radius: var(--avatar-radius);
     mask: none;
 }
-.avatarHintInner-2HUAWj{
+.avatarHintInner-2HUAWj {
     border-radius: var(--avatar-radius);
 }
