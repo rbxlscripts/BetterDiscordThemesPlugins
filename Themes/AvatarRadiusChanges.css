@@ -1,7 +1,3 @@
-:root {
-   --avatar-radius: 0%;
-}
-
 :root .wrapper-1VLyxH foreignObject,
 :root .callAvatarMask-fiNMWy foreignObject,
 :root .avatarContainer-gPrCzX foreignObject,
@@ -26,13 +22,13 @@
 :root .avatar-2EVtgZ,
 :root .avatarContainerMasked-13fYnN,
 :root .appAvatar-2_lufo {
-  border-radius: var(--avatar-radius);
+  border-radius: var(--avatar-radius, 0px);
 }
 .avatarHint-k7pYop,
 .avatarHint-k7pYop foreignObject {
-    border-radius: var(--avatar-radius);
+    border-radius: var(--avatar-radius, 0px);
     mask: none;
 }
 .avatarHintInner-2HUAWj {
-    border-radius: var(--avatar-radius);
+    border-radius: var(--avatar-radius, 0px);
 }
