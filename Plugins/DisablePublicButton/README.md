@@ -6,7 +6,7 @@
 [download-link]: https://downgit.github.io/#/home?url=https://github.com/rbxlscripts/BetterDiscordThemesPlugins/blob/main/Plugins/DisablePublicButton/DisablePublicButton.plugin.js
 
 `Remove the public button from the sidebar.`<br>
-**Without:**<br>
+**Before:**<br>
 ![Without](https://mstudio45.has-no-bra.in/5yeztqHrv.png)<br>
-**With:**<br>
+**After:**<br>
 ![With](https://mstudio45.has-no-bra.in/5yezZ6OAJ.png)<br>
