@@ -1,0 +1,14 @@
+/**
+    * @name WinXP Theme
+    * @version 0.0.1
+    * @description Discord but with Windows XP look.
+    * @author mstudio45#5590
+    *
+    * @source https://github.com/rbxlscripts/BetterDiscordThemesPlugins/tree/main/Themes
+**/
+@import url("https://gitcdn.link/cdn/rbxlscripts/BetterDiscordThemesPlugins/main/Themes/AvatarRadiusChanges.css");
+@import url("");
+
+:root {
+    --avatar-radius: 0px;
+}
